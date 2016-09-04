@@ -45,7 +45,7 @@
     {
       "t": "#cccccc\n\n\n\n#008dea\n#87bc9e"
     },
-    "+\n=\n\n\n\\\n<i class='fa fa-upload'></i>",
+    "+\n=\n\n\n\n<i class='fa fa-upload'></i>",
     {
       "x": 4.5,
       "t": "#cccccc",
@@ -178,11 +178,12 @@
     },
     "P\n\n\n\n-",
     {
-      "a": 1,
+      "t": "#cccccc",
+      "a": 5,
       "f": 3,
       "w": 1.5
     },
-    "|\n\\\n\n\nF12"
+    "|\n\\"
   ],
   [
     {
@@ -283,31 +284,29 @@
       "a": 3,
       "w": 1.5
     },
-    "⏎\n\n\n\n<i class='kb kb-Arrows-Up'></i>\n<i class='kb kb-Multimedia-Play-Pause'></i>"
+    "⏎\n\n\n\n\n<i class='kb kb-Multimedia-Play-Pause'></i>"
   ],
   [
     {
       "y": -0.625,
       "x": 6.5,
       "c": "#514a38",
-      "t": "#cccccc",
-      "a": 4,
+      "t": "#cccccc\n\n\n\n#008dea",
+      "a": 0,
       "h": 1.5
     },
-    "B\n\n\n\n\n\n\n\n\n\nLCAG",
+    "B\n\n\n\n\"\n\n\n\n\n\nLCAG",
     {
       "x": 4.5,
       "h": 1.5
     },
-    "N\n\n\n\n\n\n\n\n\n\nHyper"
+    "N\n\n\n\n'\n\n\n\n\n\nHyper"
   ],
   [
     {
       "y": -0.75,
       "x": 3.5,
-      "c": "#3b3a3a",
-      "t": "#cccccc\n\n\n\n#008dea",
-      "a": 0
+      "c": "#3b3a3a"
     },
     "C\n\n\n\n[",
     {
@@ -349,7 +348,7 @@
     {
       "x": 6.5
     },
-    "N\n\n\n\n&"
+    "N\n\n\n\n0"
   ],
   [
     {
@@ -376,7 +375,7 @@
       "f2": 0,
       "w": 1.5
     },
-    ")\n⇧\n\n\n<i class='kb kb-Arrows-Down'></i>\n<i class='kb kb-Multimedia-Stop'></i>"
+    ")\n⇧\n\n\nF12\n<i class='kb kb-Multimedia-Stop'></i>"
   ],
   [
     {
@@ -394,21 +393,21 @@
       "x": 10.5,
       "t": "#cccccc\n\n\n\n#008dea\n#87bc9e"
     },
-    "↓\n\n\n\n0\n<i class='kb kb-Multimedia-Volume-Down-2'></i>"
+    "↓\n\n\n\n\n<i class='kb kb-Multimedia-Volume-Down-2'></i>"
   ],
   [
     {
       "y": -0.875,
       "x": 2.5,
       "c": "#514a38",
-      "t": "#cccccc\n\n\n\n#008dea",
-      "a": 1,
+      "t": "#cccccc",
+      "a": 5,
       "fa": [
         6,
         1
       ]
     },
-    "⌦\n⌥\n\n\n=",
+    "⌦\n⌥",
     {
       "x": 1,
       "c": "#3b3a3a",
@@ -430,7 +429,7 @@
       "x": 14,
       "a": 3
     },
-    "↑\n\n\n\n⏎\n<i class='kb kb-Multimedia-Volume-Up-2'></i>"
+    "↑\n\n\n\n\n<i class='kb kb-Multimedia-Volume-Up-2'></i>"
   ],
   [
     {
@@ -460,7 +459,7 @@
       "a": 0,
       "f": 3
     },
-    "\"\n'\n\n\n-",
+    "\"\n'\n\n\n&",
     {
       "x": 14.5,
       "f": 3
@@ -494,19 +493,17 @@
   ],
   [
     {
-      "c": "#cccccc",
-      "t": "#3b3a3a\n\n\n\n\n#87bc9e",
-      "a": 1,
+      "c": "#514a38",
+      "a": 5,
       "h": 2
     },
-    "\n⌘\n\n\n\n<i class='fa fa-arrow-circle-left'></i>\nSpace",
+    "\n⌘\n\n\n\n\nSpace",
     {
       "h": 2
     },
-    "\n⌥\n\n\n\n<i class='fa fa-arrow-circle-right'></i>\nEnter",
+    "\n⌥\n\n\n\n\nEnter",
     {
       "c": "#3b3a3a",
-      "t": "#cccccc",
       "a": 7
     },
     "<i class='kb kb-Multimedia-Volume-Down-2'></i>"
@@ -514,12 +511,11 @@
   [
     {
       "x": 2,
-      "c": "#cccccc",
-      "t": "#3b3a3a\n\n\n\n\n#87bc9e",
-      "a": 1,
+      "c": "#514a38",
+      "a": 5,
       "f2": 1
     },
-    "Esc\n⇧⌘\n\n\n\n<i class='fa fa-hand-stop-o'></i>"
+    "Esc\n⇧⌘"
   ],
   [
     {
@@ -528,7 +524,6 @@
       "y": -1,
       "x": -3,
       "c": "#3b3a3a",
-      "t": "#cccccc",
       "a": 7
     },
     "Home",
@@ -540,23 +535,22 @@
     },
     "PgUp",
     {
-      "t": "#cccccc\n\n\n\n\n#87bc9e",
-      "a": 3,
-      "f": 3,
+      "c": "#514a38",
+      "a": 5,
+      "f2": 0,
       "h": 2
     },
-    "⌫\n\n\n\n\n<i class='fa fa-arrow-circle-left'></i>",
+    "\n⌥\n\n\n\n\n⌫",
     {
-      "f": 3,
       "h": 2
     },
-    "Space\n\n\n\n\n<i class='fa fa-arrow-circle-right'></i>"
+    "\n⌘\n\n\n\n\nSpace"
   ],
   [
     {
       "x": -3,
-      "f": 3
+      "f2": 1
     },
-    "PgDn\n\n\n\n\n<i class='fa fa-repeat'></i>"
+    "\n⇧⌘\n\n\n\n\nPgDn"
   ]
 ]
