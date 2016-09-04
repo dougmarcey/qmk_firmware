@@ -1,0 +1,562 @@
+[
+  {
+    "name": "DougMarcey Ergodox-EZ Layer 1"
+  },
+  [
+    {
+      "x": 3.5,
+      "c": "#3b3a3a",
+      "t": "#cccccc\n\n\n\n#008dea",
+      "a": 0
+    },
+    "#\n3\n\n\nF3",
+    {
+      "x": 10.5
+    },
+    "*\n8\n\n\nF8"
+  ],
+  [
+    {
+      "y": -0.875,
+      "x": 2.5,
+      "t": "#cccccc\n\n\n\n#008dea\n#87bc9e"
+    },
+    "@\n2\n\n\nF2\n<i class='fa fa-sun-o'></i>⇡",
+    {
+      "x": 1,
+      "t": "#cccccc\n\n\n\n#008dea"
+    },
+    "$\n4\n\n\nF4",
+    {
+      "x": 8.5
+    },
+    "&\n7\n\n\nF7",
+    {
+      "x": 1
+    },
+    "(\n9\n\n\nF9"
+  ],
+  [
+    {
+      "y": -0.875,
+      "x": 5.5
+    },
+    "%\n5\n\n\nF5",
+    {
+      "t": "#cccccc\n\n\n\n#008dea\n#87bc9e"
+    },
+    "+\n=\n\n\n\\\n<i class='fa fa-upload'></i>",
+    {
+      "x": 4.5,
+      "t": "#cccccc",
+      "a": 4
+    },
+    "_\n-",
+    {
+      "t": "#cccccc\n\n\n\n#008dea",
+      "a": 0
+    },
+    "^\n6\n\n\nF6"
+  ],
+  [
+    {
+      "y": -0.875,
+      "t": "#cccccc",
+      "a": 7,
+      "w": 1.5
+    },
+    "Esc",
+    {
+      "t": "#cccccc\n\n\n\n#008dea\n#87bc9e",
+      "a": 0
+    },
+    "!\n1\n\n\nF1\n<i class='fa fa-sun-o'></i>⇣",
+    {
+      "x": 14.5,
+      "t": "#cccccc\n\n\n\n#008dea"
+    },
+    ")\n0\n\n\nF10",
+    {
+      "a": 3,
+      "w": 1.5
+    },
+    "⌫\n\n\n\nF11"
+  ],
+  [
+    {
+      "y": -0.375,
+      "x": 3.5,
+      "a": 0
+    },
+    "E\n\n\n\n{",
+    {
+      "x": 10.5,
+      "t": "#cccccc\n\n\n\n#008dea\n#87bc9e"
+    },
+    "I\n\n\n\n8\n<i class='kb kb-Arrows-Up'></i>"
+  ],
+  [
+    {
+      "y": -0.875,
+      "x": 2.5
+    },
+    "W\n\n\n\n@\n<i class='fa fa-mouse-pointer'></i>⇡",
+    {
+      "x": 1,
+      "t": "#cccccc\n\n\n\n#008dea"
+    },
+    "R\n\n\n\n}",
+    {
+      "x": 8.5,
+      "t": "#cccccc\n\n\n\n#008dea\n#87bc9e"
+    },
+    "U\n\n\n\n7\n<i class='kb kb-Arrows-Top-4'></i>",
+    {
+      "x": 1
+    },
+    "O\n\n\n\n9\n<i class='kb kb-Arrows-Bottom-4'></i>"
+  ],
+  [
+    {
+      "y": -0.875,
+      "x": 5.5,
+      "t": "#cccccc\n\n\n\n#008dea"
+    },
+    "T\n\n\n\n|",
+    {
+      "c": "#0255bb",
+      "t": "#cccccc\n\n\n\n\n\n\n\n\n\n#9fa9b3",
+      "a": 4,
+      "fa": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ],
+      "h": 1.5
+    },
+    "T\n\n\n\n\n\n\n\n\n\n~ Code Layer",
+    {
+      "x": 4.5,
+      "h": 1.5
+    },
+    "Y\n\n\n\n\n\n\n\n\n\n~ Code Layer",
+    {
+      "c": "#3b3a3a",
+      "t": "#cccccc\n\n\n\n#008dea",
+      "a": 0
+    },
+    "Y\n\n\n\n←"
+  ],
+  [
+    {
+      "y": -0.875,
+      "c": "#058550",
+      "t": "#cccccc\n#87bc9e",
+      "a": 5,
+      "f2": 1,
+      "w": 1.5
+    },
+    "⇥\n~ Media Layer",
+    {
+      "c": "#3b3a3a",
+      "t": "#cccccc\n\n\n\n#008dea",
+      "a": 0,
+      "f": 3
+    },
+    "Q\n\n\n\n!",
+    {
+      "x": 14.5,
+      "f": 3
+    },
+    "P\n\n\n\n-",
+    {
+      "a": 1,
+      "f": 3,
+      "w": 1.5
+    },
+    "|\n\\\n\n\nF12"
+  ],
+  [
+    {
+      "y": -0.375,
+      "x": 3.5,
+      "t": "#cccccc\n\n\n\n#008dea\n#87bc9e",
+      "a": 0,
+      "f": 3
+    },
+    "D\n\n\n\n(\n<i class='fa fa-mouse-pointer'></i>⇢",
+    {
+      "x": 10.5,
+      "f": 3
+    },
+    "K\n\n\n\n5\n<i class='kb kb-Arrows-Down'></i>"
+  ],
+  [
+    {
+      "y": -0.875,
+      "x": 2.5,
+      "f": 3
+    },
+    "S\n\n\n\n$\n<i class='fa fa-mouse-pointer'></i>⇣",
+    {
+      "x": 1,
+      "t": "#cccccc\n\n\n\n#008dea",
+      "f": 3,
+      "n": true
+    },
+    "F\n\n\n\n)",
+    {
+      "x": 8.5,
+      "t": "#cccccc\n\n\n\n#008dea\n#87bc9e",
+      "f": 3,
+      "n": true
+    },
+    "J\n\n\n\n4\n<i class='kb kb-Arrows-Left'></i>",
+    {
+      "x": 1,
+      "f": 3
+    },
+    "L\n\n\n\n6\n<i class='kb kb-Arrows-Right'></i>"
+  ],
+  [
+    {
+      "y": -0.875,
+      "x": 5.5,
+      "t": "#cccccc\n\n\n\n#008dea",
+      "f": 3
+    },
+    "G\n\n\n\n`",
+    {
+      "x": 6.5,
+      "t": "#cccccc\n\n\n\n#008dea\n#87bc9e",
+      "f": 3
+    },
+    "H\n\n\n\n→\n<i class='kb kb-Line-Start'></i>"
+  ],
+  [
+    {
+      "y": -0.875,
+      "c": "#514a38",
+      "t": "#cccccc",
+      "a": 5,
+      "f": 3,
+      "w": 1.5
+    },
+    "-\nCtrl",
+    {
+      "c": "#3b3a3a",
+      "t": "#cccccc\n\n\n\n#008dea\n#87bc9e",
+      "a": 0,
+      "f": 3
+    },
+    "A\n\n\n\n#\n⇠<i class='fa fa-mouse-pointer'></i>",
+    {
+      "x": 14.5,
+      "c": "#058550",
+      "t": "#cccccc\n\n\n\n#f7f4e6\n#87bc9e\n\n\n\n\n#87bc9e",
+      "fa": [
+        0,
+        1,
+        1,
+        1,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1,
+        1
+      ]
+    },
+    ":\n\n\n\n+\n<i class='kb kb-Line-End'></i>\n;\n\n\n\n~ MediaL",
+    {
+      "c": "#3b3a3a",
+      "t": "#cccccc\n\n\n\n#008dea\n#87bc9e",
+      "a": 3,
+      "w": 1.5
+    },
+    "⏎\n\n\n\n<i class='kb kb-Arrows-Up'></i>\n<i class='kb kb-Multimedia-Play-Pause'></i>"
+  ],
+  [
+    {
+      "y": -0.625,
+      "x": 6.5,
+      "c": "#514a38",
+      "t": "#cccccc",
+      "a": 4,
+      "h": 1.5
+    },
+    "B\n\n\n\n\n\n\n\n\n\nLCAG",
+    {
+      "x": 4.5,
+      "h": 1.5
+    },
+    "N\n\n\n\n\n\n\n\n\n\nHyper"
+  ],
+  [
+    {
+      "y": -0.75,
+      "x": 3.5,
+      "c": "#3b3a3a",
+      "t": "#cccccc\n\n\n\n#008dea",
+      "a": 0
+    },
+    "C\n\n\n\n[",
+    {
+      "x": 10.5,
+      "t": "#cccccc\n\n\n\n#008dea\n#87bc9e",
+      "f": 3
+    },
+    "<\n,\n\n\n2\n<i class='kb kb-Multimedia-Rewind-Start'></i>"
+  ],
+  [
+    {
+      "y": -0.875,
+      "x": 2.5,
+      "t": "#cccccc\n\n\n\n#008dea"
+    },
+    "X\n\n\n\n^",
+    {
+      "x": 1
+    },
+    "V\n\n\n\n]",
+    {
+      "x": 8.5
+    },
+    "M\n\n\n\n1",
+    {
+      "x": 1,
+      "t": "#cccccc\n\n\n\n#008dea\n#87bc9e",
+      "f": 3
+    },
+    ">\n.\n\n\n3\n<i class='kb kb-Multimedia-FastForward-End'></i>"
+  ],
+  [
+    {
+      "y": -0.875,
+      "x": 5.5,
+      "t": "#cccccc\n\n\n\n#008dea"
+    },
+    "B\n\n\n\n~",
+    {
+      "x": 6.5
+    },
+    "N\n\n\n\n&"
+  ],
+  [
+    {
+      "y": -0.875,
+      "c": "#514a38",
+      "t": "#cccccc",
+      "a": 5,
+      "f": 3,
+      "w": 1.5
+    },
+    "(\n⇧",
+    {
+      "t": "#cccccc\n\n\n\n#008dea",
+      "a": 0
+    },
+    "Z\n\n\n\n%\n\n\n\n\n\nCtrl",
+    {
+      "x": 14.5
+    },
+    "?\n\n\n\n/\n\n/\n\n\n\nCtrl",
+    {
+      "t": "#cccccc\n\n\n\n#008dea\n#87bc9e",
+      "a": 1,
+      "f2": 0,
+      "w": 1.5
+    },
+    ")\n⇧\n\n\n<i class='kb kb-Arrows-Down'></i>\n<i class='kb kb-Multimedia-Stop'></i>"
+  ],
+  [
+    {
+      "y": -0.375,
+      "x": 3.5,
+      "c": "#3b3a3a",
+      "t": "#cccccc\n\n\n\n\n#87bc9e",
+      "a": 3,
+      "fa": [
+        6
+      ]
+    },
+    "←\n\n\n\n\n<i class='fa fa-caret-square-o-left'></i> <i class='fa fa-mouse-pointer'></i>",
+    {
+      "x": 10.5,
+      "t": "#cccccc\n\n\n\n#008dea\n#87bc9e"
+    },
+    "↓\n\n\n\n0\n<i class='kb kb-Multimedia-Volume-Down-2'></i>"
+  ],
+  [
+    {
+      "y": -0.875,
+      "x": 2.5,
+      "c": "#514a38",
+      "t": "#cccccc\n\n\n\n#008dea",
+      "a": 1,
+      "fa": [
+        6,
+        1
+      ]
+    },
+    "⌦\n⌥\n\n\n=",
+    {
+      "x": 1,
+      "c": "#3b3a3a",
+      "t": "#cccccc\n\n\n\n\n#87bc9e",
+      "a": 3
+    },
+    "→\n\n\n\n\n<i class='fa fa-mouse-pointer'></i> <i class='fa fa-caret-square-o-right'></i>",
+    {
+      "x": 10.5,
+      "t": "#cccccc\n\n\n\n#008dea\n#87bc9e",
+      "a": 0,
+      "f": 3
+    },
+    "{\n[\n\n\n.\n<i class='kb kb-Multimedia-Mute-2'></i>"
+  ],
+  [
+    {
+      "y": -0.9950000000000001,
+      "x": 14,
+      "a": 3
+    },
+    "↑\n\n\n\n⏎\n<i class='kb kb-Multimedia-Volume-Up-2'></i>"
+  ],
+  [
+    {
+      "y": -0.7549999999999999,
+      "x": 0.5,
+      "c": "#0255bb",
+      "t": "#cccccc\n\n\n\n\n\n\n\n\n\n#9fa9b3",
+      "a": 4,
+      "fa": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1
+      ]
+    },
+    "~\n\n\n\n\n\n`\n\n\n\n~ Code L",
+    {
+      "c": "#3b3a3a",
+      "t": "#cccccc\n\n\n\n#008dea",
+      "a": 0,
+      "f": 3
+    },
+    "\"\n'\n\n\n-",
+    {
+      "x": 14.5,
+      "f": 3
+    },
+    "}\n]\n\n\n*",
+    {
+      "c": "#0255bb",
+      "t": "#9fa9b3",
+      "a": 7,
+      "fa": [
+        2
+      ]
+    },
+    "Toggle Code Layer"
+  ],
+  [
+    {
+      "r": 30,
+      "rx": 6.5,
+      "ry": 4.25,
+      "y": -1,
+      "x": 1,
+      "c": "#3b3a3a",
+      "t": "#cccccc",
+      "fa": [
+        6
+      ]
+    },
+    "<i class='kb kb-Multimedia-Mute-2'></i>",
+    "<i class='kb kb-Multimedia-Volume-Up-2'></i>"
+  ],
+  [
+    {
+      "c": "#cccccc",
+      "t": "#3b3a3a\n\n\n\n\n#87bc9e",
+      "a": 1,
+      "h": 2
+    },
+    "\n⌘\n\n\n\n<i class='fa fa-arrow-circle-left'></i>\nSpace",
+    {
+      "h": 2
+    },
+    "\n⌥\n\n\n\n<i class='fa fa-arrow-circle-right'></i>\nEnter",
+    {
+      "c": "#3b3a3a",
+      "t": "#cccccc",
+      "a": 7
+    },
+    "<i class='kb kb-Multimedia-Volume-Down-2'></i>"
+  ],
+  [
+    {
+      "x": 2,
+      "c": "#cccccc",
+      "t": "#3b3a3a\n\n\n\n\n#87bc9e",
+      "a": 1,
+      "f2": 1
+    },
+    "Esc\n⇧⌘\n\n\n\n<i class='fa fa-hand-stop-o'></i>"
+  ],
+  [
+    {
+      "r": -30,
+      "rx": 13,
+      "y": -1,
+      "x": -3,
+      "c": "#3b3a3a",
+      "t": "#cccccc",
+      "a": 7
+    },
+    "Home",
+    "End"
+  ],
+  [
+    {
+      "x": -3
+    },
+    "PgUp",
+    {
+      "t": "#cccccc\n\n\n\n\n#87bc9e",
+      "a": 3,
+      "f": 3,
+      "h": 2
+    },
+    "⌫\n\n\n\n\n<i class='fa fa-arrow-circle-left'></i>",
+    {
+      "f": 3,
+      "h": 2
+    },
+    "Space\n\n\n\n\n<i class='fa fa-arrow-circle-right'></i>"
+  ],
+  [
+    {
+      "x": -3,
+      "f": 3
+    },
+    "PgDn\n\n\n\n\n<i class='fa fa-repeat'></i>"
+  ]
+]
